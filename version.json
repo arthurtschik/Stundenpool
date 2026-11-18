@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/arthurtschik/Stundenpool/releases/download/v1.0.3/Stundenpool.apk",
-  "sha256": "6dcc1448a8099aedef22d99f3f973058ffcaea18ce5f126c8b12e172d2071b5c",
-  "notes": "Ferien-Abruf repariert (HTTP-400-Fehler beim Neuladen der Ferien).",
-  "published": "2026-11-17"
+  "versionCode": 4,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/arthurtschik/Stundenpool/releases/download/v1.0.4/Stundenpool.apk",
+  "sha256": "c308851cd52b53b6d187888da7bdcd717738150bbc2b4ab6e2ea53053d44ca5f",
+  "notes": "Neues App-Icon (Stempeluhr). Texte und Beschreibung überarbeitet.",
+  "published": "2026-11-18"
 }
