@@ -4,6 +4,8 @@ Android-App zur Berechnung des Stundenpools im Schuljahr (Niedersachsen): Vertre
 
 Dieses Repository enthält nur die fertigen Versionen der App und die rechtlichen Texte. Der Quellcode ist nicht öffentlich.
 
+**Download-Seite:** https://arthurtschik.github.io/Stundenpool/
+
 ## Installieren
 
 1. Öffne die [aktuelle Version unter Releases](../../releases/latest) auf deinem Android-Handy.
