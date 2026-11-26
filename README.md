@@ -1,6 +1,6 @@
 # Stundenpool
 
-Dein Stundenpool-Rechner für das Schuljahr – für alle Vertretungskräfte und pädagogischen Mitarbeiter*innen. Ferien und Feiertage in Niedersachsen rechnet die App für dich mit. Vertretungsstunden und komplett kranke Wochen werden vom Stundenpool abgezogen.
+Dein Stundenpool-Rechner für das Schuljahr – für alle Vertretungskräfte und pädagogischen Mitarbeiter*innen. Ferien und Feiertage in Niedersachsen rechnet die App für dich mit. Vertretungsstunden werden vom Stundenpool abgezogen, auf Wunsch (Einstellung) auch komplett kranke Wochen.
 
 Es ist eine App für Android. Dieses Repository enthält nur die fertigen Versionen der App und die rechtlichen Texte. Der Quellcode ist nicht öffentlich.
 
