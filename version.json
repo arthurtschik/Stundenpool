@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/arthurtschik/Stundenpool/releases/download/v1.0.4/Stundenpool.apk",
-  "sha256": "c308851cd52b53b6d187888da7bdcd717738150bbc2b4ab6e2ea53053d44ca5f",
-  "notes": "Neues App-Icon (Stempeluhr). Texte und Beschreibung überarbeitet.",
-  "published": "2026-11-18"
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/arthurtschik/Stundenpool/releases/download/v1.0.5/Stundenpool.apk",
+  "sha256": "be7c4a08731d2649112c9efc551ca0d5d0f56cfe7aef115e124033aae58f4168",
+  "notes": "Neu: Volle Krankheitswochen anrechnen als Einstellung (standardmäßig aus). Wer bisher kranke Wochen abgezogen bekam, schaltet sie unter Einstellungen ein.",
+  "published": "2026-11-26"
 }
